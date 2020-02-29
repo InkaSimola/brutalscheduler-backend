@@ -6,17 +6,17 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "clean-css": ">=4.1.11",
-    "constantinople": ">=3.1.1",
+    "clean-css": ">=4.2.3",
+    "constantinople": ">=4.0.1",
     "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
-    "express": "^4.16.4",
-    "http-errors": "~1.6.3",
+    "debug": "~4.1.1",
+    "express": "^4.17.1",
+    "http-errors": "~1.7.3",
     "jade": "^1.11.0",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.28",
     "morgan": "~1.9.1",
     "pg-promise": "^10.4.4",
-    "uglify-js": ">=2.6.0"
+    "uglify-js": ">=3.8.0"
   }
 }
