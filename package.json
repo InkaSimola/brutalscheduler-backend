@@ -14,7 +14,7 @@
     "http-errors": "~1.7.3",
     "jade": "^1.11.0",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.28",
+    "moment-timezone": "^0.5.35",
     "morgan": "~1.9.1",
     "pg-promise": "^10.4.4",
     "uglify-js": ">=3.8.0"
